@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(252, 250, 247);
+    font: 16px calibri, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(255, 0, 0);
+}
+
+.div-p1 {
+    align-items: none;
+}
+
+.img-gambar {
+}
