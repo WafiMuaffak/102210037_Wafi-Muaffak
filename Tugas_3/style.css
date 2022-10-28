@@ -1,0 +1,113 @@
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.Header{
+    background-color: rgb(78, 75, 75);
+    padding: 30px;
+    text-align: center;
+    font-size: 100px;
+    
+}
+head{
+    background-color: antiquewhite;
+}
+body{
+    background-color: antiquewhite;
+    
+}
+ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #111;
+      }
+
+.Judul {
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+table, th, td {
+  border: 1px solid black;
+
+}
+
+.gambar {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+.pengantar {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    background-color: antiquewhite;
+}
+
+.tipe {
+ font-size:xx-large;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.isi {
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  background-color: antiquewhite;
+}
+
+.gambar1 {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.isi1 {
+  text-align: justify;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  background-color: antiquewhite;
+}
+
+.footer {
+  position:sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(78, 75, 75);
+  padding: 15px;
+  text-align: center;
+  color:white;
+}
+.warna{
+  background-color: royalblue;
+  color: #111;
+}
+
